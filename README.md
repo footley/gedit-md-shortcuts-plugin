@@ -1,7 +1,7 @@
-Gedit Spell check on Save
+Gedit Markdown Keyboard Shortcuts Plug-in
 =========================
 
-A Gedit plug in which provides keyboard shortcuts for common markdown syntax, **bold**, _italics_ etc.
+A Gedit plug in which provides keyboard shortcuts for common markdown syntax; **bold** and _italics_. Uses ctrl-b and ctrl-i respectively
 
 Installation
 ------------

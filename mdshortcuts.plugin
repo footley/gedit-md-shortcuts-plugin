@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=mdshortcuts
+IAge=3
+Name=Markdown Shortcuts
+Description=Provides keyboard shortcuts for common markdown syntax, bold, italics etc.
+Authors=Jonathan Butcher <footley@gmail.com>
+Copyright=Copyright © 2012 Jonathan Butcher <footley@gmail.com>
+Website=https://github.com/footley/gedit-md-shortcuts-plugin
